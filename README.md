@@ -35,6 +35,6 @@ This project is a Power BI dashboard that visualizes **commodity price trends** 
 
 ## 🔗 Author
 **Muthu Prabhu**  
-[LinkedIn](www.linkedin.com/in/muthu-prabhu) | [GitHub](https://github.com/yourusername)
+[LinkedIn](www.linkedin.com/in/muthu-prabhu) | [GitHub](https://github.com/Muthuprabhu2003)
 
         
